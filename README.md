@@ -19,7 +19,8 @@ This repository documents the complete roll cage design for Team Moksha's BAJA S
 - **Primary Members**: OD = 1.125″, Thickness = 0.125″  
 - **Secondary Members**: OD = 1″, Thickness = 0.065″  
 - **Meshing**: 3D Tetrahedrons (3 mm)  
-- **CAE Tool**: Ansys 2024 R2  
+- **CAE Tool**: Ansys 2024 R2
+- **Weight**: 34 kg
 
 ---
 
