@@ -5,9 +5,12 @@
 
 This repository documents the complete roll cage design for Team Moksha's BAJA SAEINDIA 2025 All-Terrain Vehicle. The roll cage is engineered in accordance with the BAJA SAEINDIA 2025 rulebook and validated using CAE tools to ensure driver safety and structural reliability under extreme racing conditions.
 
-<img src="images/render-side-view.png" width="500"/> <img src="images/render-isometric.png" width="500"/>
+![Rollcage](images/render-side-view.png)
+
+![Rollcage](images/render-isometric.png)
 
 ![Rollcage](images/render-panels.png)
+
 ---
 
 ## 🧱 Roll Cage Overview
